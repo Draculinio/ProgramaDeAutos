@@ -14,6 +14,7 @@ def calcular_precio(marca,puertas,color,ventas):
 
 print('***************************PROGRAMA DE VENTA DE AUTOS******************************')
 print('Somos vendedores de Ford, Chevrolet y Fiat')
+print('Somos líderes del mercado desde 1940')
 mas_clientes = 'si'
 ventas = []
 marcas = ['FORD','CHEVROLET','FIAT']
